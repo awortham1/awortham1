@@ -1,15 +1,16 @@
 
 
-<h2>Hi, I'm Andre! <br/><a href="https://www.linkedin.com/in/andrewortham/">Governance, Risk Management, and Compliance Professional</a></h2>
+<p align="center">
+<img width="800" src="https://www.cohnreznick.com/-/media/images/events-insights/adv_fs-cyber-risks_web-banner_1024x250.jpg" alt="my-banner">
+</p>
+
+<h2 align="center">Hello and welcome! ✌<br/> I'm Andre, <a href="https://www.linkedin.com/in/andrewortham/">Governance, Risk Management, and Compliance Professional</a></h2>
 
 
 ## 💻 Risk Management Projects:
 
 - <b>Nessus</b>
   - [Nessus Vulerability Scanning and Remediation](https://github.com/awortham1/nessus)
-- <b>PowerShell</b>
-  - [FIM (File Integrity Monitor)](https://github.com/awortham1/powershell-fim)
-
 
 
 ## 💻 Information Technology Projects:
