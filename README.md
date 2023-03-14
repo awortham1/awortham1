@@ -5,7 +5,7 @@
 
 ## 💻 Risk Management Projects:
 
-- <b>Nessus Vulnerability Management</b>
+- <b>Nessus</b>
   - [Nessus Vulerability Scanning and Remediation](https://github.com/awortham1/nessus)
 - <b>PowerShell</b>
   - [FIM (File Integrity Monitor)](https://github.com/awortham1/fim)
