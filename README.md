@@ -8,15 +8,15 @@
 - <b>Nessus</b>
   - [Nessus Vulerability Scanning and Remediation](https://github.com/awortham1/nessus)
 - <b>PowerShell</b>
-  - [FIM (File Integrity Monitor)](https://github.com/awortham1/fim)
+  - [FIM (File Integrity Monitor)](https://github.com/awortham1/powershell-fim)
 
 
 
 ## 💻 Information Technology Projects:
 
 - <b>Microsoft Azure</b>
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/awortham1/azurensg)
-  - [Configuring Active Directory Within Azure](https://github.com/awortham1/azure-activedirectory)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/awortham1/azure-nsg)
+  - [Configuring Active Directory within Azure](https://github.com/awortham1/azure-activedirectory)
 
 
 
