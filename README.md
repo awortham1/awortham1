@@ -16,7 +16,7 @@
 
 - <b>Microsoft Azure</b>
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/awortham1/azurensg)
-  - [Configuring Active Directory Within Azure](https://github.com/awortham1/azuread)
+  - [Configuring Active Directory Within Azure](https://github.com/awortham1/azure-activedirectory)
 
 
 
