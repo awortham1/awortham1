@@ -7,7 +7,7 @@
 <h2 align="center">Hello, I'm Andre! ✌<br/> <a href="https://www.linkedin.com/in/andrewortham/">Governance, Risk Management, and Compliance Professional</a></h2>
 
 
-## 💻 Risk Management Projects:
+## 💻 Information Security Projects:
 
 - <b>Nessus</b>
   - [Nessus Vulerability Scanning and Remediation](https://github.com/awortham1/nessus)
