@@ -9,13 +9,13 @@
 <a href="https://www.linkedin.com/in/andrewortham/">Information Security Professional</a></h2>-->
 
 
-## 💻 Information Security Projects:
+## Projects:
 
 - <b>Nessus</b>
   - [Nessus Vulerability Scanning and Remediation](https://github.com/awortham1/nessus)
 
 
-## 💻 Information Technology Projects:
+<!--## 💻 Information Technology Projects:-->
 
 - <b>Azure</b>
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/awortham1/azure-nsg)
