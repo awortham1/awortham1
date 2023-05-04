@@ -1,10 +1,11 @@
 
 
+ <!--
 <p align="center">
 <img width="800" src="https://www.cohnreznick.com/-/media/images/events-insights/adv_fs-cyber-risks_web-banner_1024x250.jpg" alt="my-banner">
 </p>
 
-  <!-- <h2 align="center">Hello, I'm Andre! ✌<br/>
+  <h2 align="center">Hello, I'm Andre! ✌<br/>
 <a href="https://www.linkedin.com/in/andrewortham/">Information Security Professional</a></h2>-->
 
 
