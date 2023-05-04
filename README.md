@@ -17,7 +17,7 @@
 
 ## 💻 Information Technology Projects:
 
-- <b>Microsoft Azure</b>
+- <b>Azure</b>
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/awortham1/azure-nsg)
   - [Configuring Active Directory within Azure](https://github.com/awortham1/azure-activedirectory)
 
