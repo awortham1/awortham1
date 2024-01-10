@@ -12,6 +12,9 @@
 
 ### Hi 👋, I'm Andre!
 
+- IT Professional based in San Diego, CA.
+- How to reach me: andrewortham@protonmail.com
+
 ## Projects:
 
 - <b>Nessus</b>
