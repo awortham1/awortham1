@@ -6,9 +6,10 @@
 </p>
 
   <h2 align="center">Hello, I'm Andre! ✌<br/>
-<a href="https://www.linkedin.com/in/andrewortham/">Information Security Professional</a></h2>-->
+<a href="https://www.linkedin.com/in/andrewortham/">Information Security Professional</a></h2>
+-->
 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/andrewortham)
+
 
 ### Hi 👋, I'm Andre!
 
