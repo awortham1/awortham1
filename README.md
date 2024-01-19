@@ -32,6 +32,7 @@
 
 - <b>Python</b>
   - [Random Password Generator](https://github.com/awortham1/python-password-generator)
+  - [Password Manager](https://github.com/awortham1/Python-Password-Manager)
 - <b>AWS</b>
 
 <!--
