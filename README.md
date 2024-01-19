@@ -13,10 +13,10 @@
 
 ### Hi 👋, I'm Andre!
 
-- IT Professional based in San Diego, CA.
+- IT Cybersecurity Professional based in San Diego, CA
 - How to reach me: andrewortham@protonmail.com
 
-## Projects:
+## Cybersecurity Projects:
 
 - <b>Nessus</b>
   - [Nessus Vulerability Scanning and Remediation](https://github.com/awortham1/nessus)
@@ -30,7 +30,9 @@
   - [Azure Sentinel SIEM](https://github.com/awortham1/Azure-Sentinel-Lab)
 
 
+- <b>Python</b>
 
+- <b>AWS</b>
 
 <!--
 ### Hi there 👋
