@@ -34,7 +34,7 @@
   - [Random Password Generator](https://github.com/awortham1/python-password-generator)
   - [Password Manager](https://github.com/awortham1/Python-Password-Manager)
 - <b>AWS</b>
-- [AWS Malware Lab](https://github.com/awortham1/AWS-Malware-Lab)
+  - [AWS Malware Lab](https://github.com/awortham1/AWS-Malware-Lab)
 
 <!--
 ### Hi there 👋
