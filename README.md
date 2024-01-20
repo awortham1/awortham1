@@ -14,7 +14,7 @@
 ### Hi 👋, I'm Andre!
 
 - Cybersecurity and IT Professional based in San Diego, CA
-- How to reach me: andrewortham@protonmail.com
+- How to contact me: andrewortham@protonmail.com
 
 ## Cybersecurity Projects:
 
