@@ -18,7 +18,7 @@
 
 ## Cybersecurity Projects:
 
-- <b>Nessus</b>
+- <b>Risk Management</b>
   - [Nessus Vulerability Scanning and Remediation](https://github.com/awortham1/nessus)
 
 
