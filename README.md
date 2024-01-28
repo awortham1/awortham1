@@ -5,8 +5,7 @@
 <img width="800" src="https://www.cohnreznick.com/-/media/images/events-insights/adv_fs-cyber-risks_web-banner_1024x250.jpg" alt="my-banner">
 </p>
 
-  <h2 align="center">Hello, I'm Andre! ✌<br/>
-<a href="https://www.linkedin.com/in/andrewortham/">Information Security Professional</a></h2>
+
 -->
 
 
@@ -16,7 +15,7 @@
 - Cybersecurity and IT Professional based in San Diego, CA
 - How to contact me: andrewortham@protonmail.com
 
-## Cybersecurity Projects:
+## 💻 Cybersecurity Projects:
 
 - <b>Risk Management</b>
   - [Risk Assessment of Home Network](https://github.com/awortham1/nessus)
