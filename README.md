@@ -32,8 +32,8 @@
 
 
 - <b>Python</b>
-  - [Random Password Generator](https://github.com/awortham1/python-password-generator)
-  - [Password Manager](https://github.com/awortham1/Python-Password-Manager)
+  - [Python Random Password Generator](https://github.com/awortham1/python-password-generator)
+  - [Python Password Manager](https://github.com/awortham1/Python-Password-Manager)
   - [Python TCP Port Scanner](https://github.com/awortham1/Python-Port-Scanner)
 - <b>AWS</b>
   - [AWS Malware Analysis Lab](https://github.com/awortham1/AWS-Malware-Lab)
