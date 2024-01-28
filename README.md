@@ -19,7 +19,7 @@
 ## Cybersecurity Projects:
 
 - <b>Risk Management</b>
-  - [Risk Assessment on Home Network](https://github.com/awortham1/nessus)
+  - [Risk Assessment of Home Network](https://github.com/awortham1/nessus)
   - [Nessus Vulerability Scanning and Remediation](https://github.com/awortham1/nessus)
 
 
