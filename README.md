@@ -37,6 +37,7 @@
   - [Python TCP Port Scanner](https://github.com/awortham1/Python-Port-Scanner)
 - <b>AWS</b>
   - [AWS Malware Lab](https://github.com/awortham1/AWS-Malware-Lab)
+  - [AWS Cloud Security Lab - Secure S3 Buckets](https://github.com/awortham1/AWS-Malware-Lab)
 
 <!--
 ### Hi there 👋
