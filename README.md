@@ -18,7 +18,7 @@
 ## 💻 Cybersecurity Projects:
 
 - <b>Risk Management</b>
-  - [Risk Assessment of Home Network](https://github.com/awortham1/nessus)
+  - [Risk Assessment of Home Network](https://github.com/awortham1/Network-Risk-Assessment)
   - [Nessus Vulerability Scanning and Remediation](https://github.com/awortham1/nessus)
 
 
@@ -36,7 +36,7 @@
   - [Python TCP Port Scanner](https://github.com/awortham1/Python-Port-Scanner)
 - <b>AWS</b>
   - [AWS Malware Analysis Lab](https://github.com/awortham1/AWS-Malware-Lab)
-  - [AWS Cloud Security Lab - Secure S3 Buckets](https://github.com/awortham1/AWS-Malware-Lab)
+  - [AWS Cloud Security Lab - Secure S3 Buckets](https://github.com/awortham1/AWS-S3-Buckets)
 
 <!--
 ### Hi there 👋
