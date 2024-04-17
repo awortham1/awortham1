@@ -28,7 +28,7 @@
 <!--## 💻 Information Technology Projects:-->
 
 - <b>Azure</b>
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/awortham1/azure-nsg)
+  - [Azure Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/awortham1/azure-nsg)
   - [Configuring Active Directory within Azure](https://github.com/awortham1/azure-activedirectory)
   - [Azure Sentinel SIEM](https://github.com/awortham1/Azure-Sentinel-Lab)
 
