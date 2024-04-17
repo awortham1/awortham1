@@ -12,7 +12,7 @@
 
 ### Hi 👋, I'm Andre!
 
-- Cybersecurity and IT Engineer based in San Diego, CA
+- Cybersecurity and IT Engineer located in San Diego, CA
 - How to contact me: andrewortham@protonmail.com
 
 ## 💻 Cybersecurity Projects:
