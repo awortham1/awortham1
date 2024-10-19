@@ -10,7 +10,7 @@
 
 
 
-### Hi 👋, I'm Andre!
+### Hi 👋, I'm Andre
 
 - Cybersecurity Professional located in San Diego, CA
 - How to contact me: andrewortham@protonmail.com
