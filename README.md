@@ -15,7 +15,7 @@
 - Cybersecurity Professional located in San Diego, CA
 - How to contact me: andrewortham@protonmail.com
 
-## 💻 Cybersecurity Projects:
+## Cybersecurity Projects:
 
 - <b>Risk Management and Compliance</b>
 
