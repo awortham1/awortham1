@@ -18,7 +18,7 @@
 
 ## Cybersecurity Projects:
 
-- <b>Risk Management and Compliance</b>
+- <b>Risk and Compliance</b>
 
   - [NIST 800-53 Compliance Audit and Risk Assessment](https://github.com/awortham1/NIST-Risk-Assessment)
   - [ISO 27001 Compliance Audit and Risk Assessment](https://github.com/awortham1/ISO-Risk-Assessment)
