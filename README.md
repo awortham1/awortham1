@@ -16,7 +16,7 @@
 - Email: andrewortham@protonmail.com
 - Linktree: [linktr.ee/awortham1](https://linktr.ee/awortham1)
 
-## Cybersecurity Projects:
+## Cybersecurity and IT Projects:
 
 - <b>Risk and Compliance</b>
 
