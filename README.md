@@ -18,7 +18,7 @@
 
 ## Cybersecurity and IT Projects:
 
-- <b>Risk and Compliance</b>
+- <b>Risk and Compliance Projects</b>
 
   - [NIST 800-53 Compliance Audit and Risk Assessment](https://github.com/awortham1/NIST-Risk-Assessment)
   - [ISO 27001 Compliance Audit and Risk Assessment](https://github.com/awortham1/ISO-Risk-Assessment)
@@ -28,19 +28,19 @@
 
 <!--## 💻 Information Technology Projects:-->
 
-- <b>Azure</b>
+- <b>Azure Projects</b>
   - [Azure Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/awortham1/azure-nsg)
   - [Azure Active Directory Configuration](https://github.com/awortham1/azure-activedirectory)
   - [Azure Sentinel SIEM](https://github.com/awortham1/Azure-Sentinel-Lab)
 
 
-- <b>Python</b>
+- <b>Python Projects</b>
   - [Python Random Password Generator](https://github.com/awortham1/python-password-generator)
   - [Python Password Manager](https://github.com/awortham1/Python-Password-Manager)
   - [Python TCP Port Scanner](https://github.com/awortham1/Python-Port-Scanner)
 
     
-- <b>AWS</b>
+- <b>AWS Projects</b>
   - [AWS Malware Analysis Lab](https://github.com/awortham1/AWS-Malware-Lab)
   - [AWS Cloud Security Lab - Secure S3 Buckets](https://github.com/awortham1/AWS-S3-Buckets)
 
