@@ -14,8 +14,9 @@
 
 - Cybersecurity and IT Professional located in San Diego, CA
 - Email: andrewortham@protonmail.com
-- Linktree: [linktr.ee/awortham1](https://linktr.ee/awortham1)
 - Gumroad: [https://awortham1.gumroad.com/](https://awortham1.gumroad.com/)
+- Linktree: [linktr.ee/awortham1](https://linktr.ee/awortham1)
+
 
 ## Cybersecurity and IT Projects:
 
