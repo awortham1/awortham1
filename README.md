@@ -20,13 +20,6 @@
 
 ## Cybersecurity and IT Projects:
 
-- <b>Risk and Compliance</b>
-
-  - [NIST 800-53 Compliance Audit and Risk Assessment](https://github.com/awortham1/NIST-Risk-Assessment)
-  - [ISO 27001 Compliance Audit and Risk Assessment](https://github.com/awortham1/ISO-Risk-Assessment)
-  - [Risk Assessment of Home Network](https://github.com/awortham1/Network-Risk-Assessment)
-  - [Nessus Vulnerability Scanning and Remediation](https://github.com/awortham1/nessus)
-
 
 <!--## 💻 Information Technology Projects:-->
 
@@ -45,7 +38,14 @@
 - <b>AWS</b>
   - [AWS Malware Analysis Lab](https://github.com/awortham1/AWS-Malware-Lab)
   - [AWS Cloud Security Lab - Secure S3 Buckets](https://github.com/awortham1/AWS-S3-Buckets)
+ 
+    
+- <b>Risk and Compliance</b>
 
+  - [NIST 800-53 Compliance Audit and Risk Assessment](https://github.com/awortham1/NIST-Risk-Assessment)
+  - [ISO 27001 Compliance Audit and Risk Assessment](https://github.com/awortham1/ISO-Risk-Assessment)
+  - [Risk Assessment of Home Network](https://github.com/awortham1/Network-Risk-Assessment)
+  - [Nessus Vulnerability Scanning and Remediation](https://github.com/awortham1/nessus)
 <!--
 ### Hi there 👋
 
