@@ -28,6 +28,12 @@
   - [Azure Active Directory Configuration](https://github.com/awortham1/azure-activedirectory)
   - [Azure Sentinel SIEM](https://github.com/awortham1/Azure-Sentinel-Lab)
 
+- <b>Risk and Compliance</b>
+
+  - [NIST 800-53 Compliance Audit and Risk Assessment](https://github.com/awortham1/NIST-Risk-Assessment)
+  - [ISO 27001 Compliance Audit and Risk Assessment](https://github.com/awortham1/ISO-Risk-Assessment)
+  - [Risk Assessment of Home Network](https://github.com/awortham1/Network-Risk-Assessment)
+  - [Nessus Vulnerability Scanning and Remediation](https://github.com/awortham1/nessus)
 
 - <b>Python</b>
   - [Python Random Password Generator](https://github.com/awortham1/python-password-generator)
@@ -40,12 +46,7 @@
   - [AWS Cloud Security Lab - Secure S3 Buckets](https://github.com/awortham1/AWS-S3-Buckets)
  
     
-- <b>Risk and Compliance</b>
 
-  - [NIST 800-53 Compliance Audit and Risk Assessment](https://github.com/awortham1/NIST-Risk-Assessment)
-  - [ISO 27001 Compliance Audit and Risk Assessment](https://github.com/awortham1/ISO-Risk-Assessment)
-  - [Risk Assessment of Home Network](https://github.com/awortham1/Network-Risk-Assessment)
-  - [Nessus Vulnerability Scanning and Remediation](https://github.com/awortham1/nessus)
 <!--
 ### Hi there 👋
 
